@@ -1,0 +1,10 @@
+# -------------------------------------------------------------------------- #
+# Quartus Prime project file for the CAN_ADC project (DE0-Nano).
+# Target: Altera Cyclone IV E  EP4CE22F17C6N
+# -------------------------------------------------------------------------- #
+
+QUARTUS_VERSION = "24.1"
+
+# Revisions
+
+PROJECT_REVISION = "can_adc"
